@@ -12,7 +12,7 @@
   --toefl: #c05621;
   --font-cn: "SimHei", "黑体", "Microsoft YaHei", "PingFang SC", sans-serif;
   --font-en: "Times New Roman", "Times", "STSong", serif;
-  --base: 12px;
+  --base: 20px;
 }
 
 * { box-sizing: border-box; }
@@ -34,9 +34,9 @@ body {
 :lang(zh), .zh { font-family: var(--font-cn); }
 
 h1, h2, h3, h4, h5 { font-weight: 700; margin: 0 0 0.6em; line-height: 1.4; }
-h1 { font-size: 21px; }
-h2 { font-size: 17px; }
-h3 { font-size: 14px; }
+h1 { font-size: 45px; }
+h2 { font-size: 34px; }
+h3 { font-size: 26px; }
 p { margin: 0 0 1em; }
 
 a { color: var(--fg); text-decoration: none; }
@@ -106,7 +106,7 @@ code, pre {
 
 .section-title {
   font-family: var(--font-cn);
-  font-size: 16px;
+  font-size: 45px;
   font-weight: 700;
   border-left: 4px solid var(--fg);
   padding-left: 10px;
