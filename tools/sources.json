@@ -1,7 +1,8 @@
 [
   {
     "name": "China Daily",
-    "enabled": true,
+    "enabled": false,
+    "note": "RSS 已停更(2017-2019)；改用 fetch_chinadaily.py 抓 HTML 双语频道",
     "feeds": [
       "http://www.chinadaily.com.cn/rss/china_rss.xml",
       "http://www.chinadaily.com.cn/rss/world_rss.xml",
@@ -30,16 +31,16 @@
   },
   {
     "name": "Nature",
-    "enabled": false,
-    "note": "国内网络直连超时，需海外网络或代理",
+    "enabled": true,
+    "note": "可直连，RSS 提供标题+摘要（正文付费墙）",
     "feeds": [
       "https://www.nature.com/nature.rss"
     ]
   },
   {
     "name": "Science",
-    "enabled": false,
-    "note": "国内网络直连超时，需海外网络或代理",
+    "enabled": true,
+    "note": "可直连，RSS 提供标题+摘要",
     "feeds": [
       "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
     ]
@@ -47,7 +48,7 @@
   {
     "name": "National Geographic",
     "enabled": false,
-    "note": "国内网络直连超时，需海外网络或代理",
+    "note": "主机已可直连，但 RSS 端点已下线(404)，需改用页面抓取，暂未启用",
     "feeds": [
       "https://www.nationalgeographic.com/science/feed",
       "https://www.nationalgeographic.com/environment/feed"

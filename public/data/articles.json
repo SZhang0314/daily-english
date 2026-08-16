@@ -1,5 +1,885 @@
 [
   {
+    "id": "14b6bc64253967836c9e9cd2633d7167",
+    "source": "Science",
+    "title": "New Products",
+    "summary": "Science, Volume 393, Issue 6812, Page 736-736, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ael5176?af=R",
+    "published": "2026-08-14T08:20:27+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "ff6df9d3b9f98a541acbb512b1d4e94e",
+    "source": "Nature",
+    "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+    "summary": "Nature, Published online: 14 August 2026; doi:10.1038/s41586-026-11023-3 Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-11023-3",
+    "published": "2026-08-14T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "eb350f2c8b4c97cbc91765efe066ce83",
+    "source": "Nature",
+    "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+    "summary": "Nature, Published online: 14 August 2026; doi:10.1038/s41586-026-11022-4 Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-11022-4",
+    "published": "2026-08-14T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "09d6a7cc277ab457885c268fac8bf3de",
+    "source": "Nature",
+    "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
+    "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02562-w Nature staff discuss what flagging AI content may mean for research integrity — plus, how people from different cultural backgrounds have the same ‘tickle hotspots’ on the body.",
+    "content": "",
+    "url": "https://www.nature.com/articles/d41586-026-02562-w",
+    "published": "2026-08-14T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "ddc28151492ef5926091a7626850f7c1",
+    "source": "Nature",
+    "title": "Einstein the musician, AI prophets and more: Books in brief",
+    "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02504-6 Andrew Robinson reviews five of the best science picks.",
+    "content": "",
+    "url": "https://www.nature.com/articles/d41586-026-02504-6",
+    "published": "2026-08-14T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "c1a31e81e97bdee1816578ed4482dd2f",
+    "source": "Nature",
+    "title": "Undocumented migration does not raise crime rates, huge study finds",
+    "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02542-0 Analysis of neighbourhoods in more than 100 US cities finds no evidence that rising numbers of undocumented immigrants are linked with violent crime.",
+    "content": "",
+    "url": "https://www.nature.com/articles/d41586-026-02542-0",
+    "published": "2026-08-14T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "99174f637fb91667268ac6b05ce2d391",
+    "source": "Science",
+    "title": "Should humanoid robots in every household really be a top priority?",
+    "summary": "Science, Volume 393, Issue 6812, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aek2193?af=R",
+    "published": "2026-08-13T07:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "0f0b9f4304e265363ffd94cf087d2356",
+    "source": "Science",
+    "title": "A cross-organ single-cell analysis of hypertension",
+    "summary": "Science, Volume 393, Issue 6812, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea6187?af=R",
+    "published": "2026-08-13T07:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "12ed6bbf86d62d40cf359b18ef0573ca",
+    "source": "Science",
+    "title": "Chemovaccination with a late-liver-stage antimalarial induces durable immunity against malaria",
+    "summary": "Science, Volume 393, Issue 6812, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea7605?af=R",
+    "published": "2026-08-13T07:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "d869d78d9847032836c0115bcec6cf0a",
+    "source": "Science",
+    "title": "Artificial hibernation reveals synaptic engram architecture associated with memory retention",
+    "summary": "Science, Volume 393, Issue 6812, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aee7004?af=R",
+    "published": "2026-08-13T07:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "fb14b01a9ea5bede286c99e8b670a34e",
+    "source": "Science",
+    "title": "A thalamocortical circuit encoding deviations from sensory history",
+    "summary": "Science, Volume 393, Issue 6812, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeg4720?af=R",
+    "published": "2026-08-13T07:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "50fa91dfd31391d65aa538ceabcb5e1e",
+    "source": "Science",
+    "title": "A CDK1 phospho-switch reprograms TRAIP to unload replisomes in mitosis",
+    "summary": "Science, Volume 393, Issue 6812, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeh1834?af=R",
+    "published": "2026-08-13T07:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "8768836484038ab39771965fdb611b7c",
+    "source": "Science",
+    "title": "The eukaryote chromosome, a two-state system with interconversion by a volume phase transition",
+    "summary": "Science, Volume 393, Issue 6812, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adz1083?af=R",
+    "published": "2026-08-13T07:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "15847a1be44ddc0fabe0816be6f9eac2",
+    "source": "Science",
+    "title": "TTF2 processes sites of incomplete DNA replication during mitosis via sister-chromatid exchanges",
+    "summary": "Science, Volume 393, Issue 6812, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aeh2300?af=R",
+    "published": "2026-08-13T07:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "dca6a11a14432515fad7469516ac565e",
+    "source": "Science",
+    "title": "Erratum for the Report “Epigenetic regulation of antagonistic receptors confers rice blast resistance with yield balance”",
+    "summary": "Science, Volume 393, Issue 6812, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ael2764?af=R",
+    "published": "2026-08-13T07:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "b3c5c3cc50f1d2aa2476c5873ea52217",
+    "source": "Science",
+    "title": "Inside the world of aspiring octopus farmers",
+    "summary": "Science, Volume 393, Issue 6812, Page 666-666, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aei0132?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "47ddeeaffa0a852a7ed856d80ea14b8b",
+    "source": "Science",
+    "title": "Room-temperature multiferroicity in all–van der Waals heterostructures",
+    "summary": "Science, Volume 393, Issue 6812, Page 714-718, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adq0420?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "15600a38574f67061012e89a33c2a083",
+    "source": "Science",
+    "title": "Tracking the baryon number with nuclear collisions",
+    "summary": "Science, Volume 393, Issue 6812, Page 727-731, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ads5962?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "2d74d54cc2aba25af1918db7cb509c07",
+    "source": "Science",
+    "title": "Promoter-driven recrystallization affording highly textured ruthenium",
+    "summary": "Science, Volume 393, Issue 6812, Page 702-707, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ady9591?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "44ef01ec265c35b12742609747a6a02d",
+    "source": "Science",
+    "title": "Xylose phosphatase activity of dystroglycan self-regulates its receptor function",
+    "summary": "Science, Volume 393, Issue 6812, Page 690-695, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adz7427?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "b61dd4ef342aad8a6dc526a3b87d8dd1",
+    "source": "Science",
+    "title": "Fossil denticles reveal how ocean productivity shapes shark baselines and recovery potential",
+    "summary": "Science, Volume 393, Issue 6812, Page 732-735, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aec2144?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "8930fe86579c567b2f5d7957189bb73c",
+    "source": "Science",
+    "title": "Eco-evolutionary feedback reshapes competitive dynamics in an orchard fly system",
+    "summary": "Science, Volume 393, Issue 6812, Page 708-713, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aee8723?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "28eb5bfec7a232c78d0957d8f6877b1b",
+    "source": "Science",
+    "title": "Overcoming the performance ceiling of textured piezoelectric ceramics",
+    "summary": "Science, Volume 393, Issue 6812, Page 719-726, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aei0475?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "9436b7b5ae6204b3371e14d56e7cc2b9",
+    "source": "Science",
+    "title": "Forest canopy decline under elevated CO2 during the Paleocene-Eocene Thermal Maximum",
+    "summary": "Science, Volume 393, Issue 6812, Page 696-701, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aec4776?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "3f1015882b50e27b8fc8dc7d26f8cb11",
+    "source": "Science",
+    "title": "A joint geophysical-geochemical deep-mantle zoning map beneath East Africa and the Indian Ocean",
+    "summary": "Science, Volume 393, Issue 6812, Page 684-689, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea5466?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "3b33fa4560081ce2a99b0cb38458d99c",
+    "source": "Science",
+    "title": "Writing the hard way",
+    "summary": "Science, Volume 393, Issue 6812, Page 738-738, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ael3844?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "17d625942387a1ba2ef552af19d6b5cf",
+    "source": "Science",
+    "title": "In Other Journals",
+    "summary": "Science, Volume 393, Issue 6812, Page 675-676, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ael3843?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "d6d7b84ce63507bda373766ccc3a3531",
+    "source": "Science",
+    "title": "A boost for chemical vaccination against malaria",
+    "summary": "Science, Volume 393, Issue 6812, Page 661-662, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aek0196?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "1659e78f643480fcebdae45c0b4d8d0d",
+    "source": "Science",
+    "title": "The phase-shifting architecture of chromosomes",
+    "summary": "Science, Volume 393, Issue 6812, Page 664-665, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aek0561?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "7ca79f5d31ace49cde85c8261d95cc1c",
+    "source": "Science",
+    "title": "The proton’s next secret",
+    "summary": "Science, Volume 393, Issue 6812, Page 663-664, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aek0574?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "e36113705b5ab74844413b6b682023db",
+    "source": "Science",
+    "title": "The scales of strain on sharks",
+    "summary": "Science, Volume 393, Issue 6812, Page 660-661, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aek0549?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "938d2fe90caca921f2e265d7c8c8fcf8",
+    "source": "Science",
+    "title": "Shark governance requires species identity",
+    "summary": "Science, Volume 393, Issue 6812, Page 668-668, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aek7995?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "ea675fbc31f0ad0e04c0113c6b300be0",
+    "source": "Science",
+    "title": "Equity in pathogen genomic surveillance",
+    "summary": "Science, Volume 393, Issue 6812, Page 668-668, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aej6968?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "610c9e063caf3949fa80ea4e8c23631d",
+    "source": "Science",
+    "title": "Hidden costs of China’s straw-burning ban",
+    "summary": "Science, Volume 393, Issue 6812, Page 667-667, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aej7857?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "145e5b612b7d49d48b401836b3d8e384",
+    "source": "Science",
+    "title": "Magic or realism?",
+    "summary": "Science, Volume 393, Issue 6812, Page 652-659, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ael4184?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "0dc890d7b944c7d118872833f5c26fb8",
+    "source": "Science",
+    "title": "Planned satellite constellations risk runaway debris",
+    "summary": "Science, Volume 393, Issue 6812, Page 642-643, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ael4188?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "8021aeb1fe2f766f91c5665bf63b9231",
+    "source": "Science",
+    "title": "With lucky dive, scientists get a front-row view of the creation of Earth’s surface",
+    "summary": "Science, Volume 393, Issue 6812, Page 644-645, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ael4189?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "93372ab2307e43752541c4b60e5d872c",
+    "source": "Science",
+    "title": "Researchers struggle to improve nonopioid pain drugs",
+    "summary": "Science, Volume 393, Issue 6812, Page 645-646, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ael4190?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "0d6b6b733cfd84a5f225adf27996ba1d",
+    "source": "Science",
+    "title": "Physicists find strong evidence for elusive ‘glueball’",
+    "summary": "Science, Volume 393, Issue 6812, Page 647-647, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ael4191?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "723fab0f2b214a3395aa78f53e93f8b2",
+    "source": "Science",
+    "title": "Fight over Colorado River water threatens ecosystems",
+    "summary": "Science, Volume 393, Issue 6812, Page 648-649, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ael4192?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "fd084b223c611af8df50f3a258838fc8",
+    "source": "Science",
+    "title": "‘Mismatched’ Ebola vaccine may soon be rolled out widely",
+    "summary": "Science, Volume 393, Issue 6812, Page 649-650, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ael4193?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "4db7a3f8b19ffaf269a53ef5e671be2e",
+    "source": "Science",
+    "title": "Tau can wreak havoc in brain cells’ energy factories",
+    "summary": "Science, Volume 393, Issue 6812, Page 651-651, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ael4194?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "83e20229eb35ac52f451fdf3a1309827",
+    "source": "Science",
+    "title": "A democracy tax in support of science",
+    "summary": "Science, Volume 393, Issue 6812, Page 641-641, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ael2482?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "af2e38705d49c4a4fd6e89ea578d2f1f",
+    "source": "Science",
+    "title": "False reporting undermines the integrity of supply chain sustainability initiatives",
+    "summary": "Science, Volume 393, Issue 6812, Page 669-672, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea9565?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "4d91a35f06b649a5afde9a57453b6709",
+    "source": "Science",
+    "title": "In Science Journals",
+    "summary": "Science, Volume 393, Issue 6812, Page 674-676, August 2026.",
+    "content": "",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ael3842?af=R",
+    "published": "2026-08-13T06:00:12+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "2c63aaf72102dcc14a22ebeda2b69d9a",
+    "source": "Nature",
+    "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+    "summary": "Nature, Published online: 13 August 2026; doi:10.1038/s41586-026-10959-w Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10959-w",
+    "published": "2026-08-13T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "3d77e30121f9c8bcee4c8f455e16b8fe",
+    "source": "Nature",
+    "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
+    "summary": "Nature, Published online: 13 August 2026; doi:10.1038/s41586-026-10960-3 Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10960-3",
+    "published": "2026-08-13T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "3f6f5681ded14abbc6133d6526ea2963",
+    "source": "Nature",
+    "title": "How to make your science business succeed when you’re a female founder",
+    "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-01904-y Sexist assumptions and a male-dominated culture can make it harder for women to attract investment for the companies they set up.",
+    "content": "",
+    "url": "https://www.nature.com/articles/d41586-026-01904-y",
+    "published": "2026-08-13T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "177baf4056cb5cd195c987311c0222e8",
+    "source": "Nature",
+    "title": "Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical",
+    "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02503-7 New Claude models will watermark text and tag images as AI-generated, as Anthropic responds to EU AI regulations.",
+    "content": "",
+    "url": "https://www.nature.com/articles/d41586-026-02503-7",
+    "published": "2026-08-13T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "3efc0eb5d9956b93d03a03ab4986461e",
+    "source": "Nature",
+    "title": "AI isn’t ready to research itself",
+    "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02494-5 An agentic system successfully developed concepts from two computer-science papers — but the original authors were not impressed.",
+    "content": "",
+    "url": "https://www.nature.com/articles/d41586-026-02494-5",
+    "published": "2026-08-13T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "8c259376fa95d3f9bba79af3779994e3",
+    "source": "Nature",
+    "title": "Why China should reassess how it rewards young scientists",
+    "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02525-1 Talent schemes helped to propel China to the forefront of global science. But the system places undue emphasis on prestigious titles as a means to secure career prospects, putting pressure on young researchers.",
+    "content": "",
+    "url": "https://www.nature.com/articles/d41586-026-02525-1",
+    "published": "2026-08-13T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "8985b6e47b33cea591f86b57a2e7138a",
+    "source": "Nature",
+    "title": "Daily briefing: New evidence of the mysterious ‘glueballs’",
+    "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02558-6 Physicists have found evidence of a particle made entirely of force-carrying gluons. Plus, what changes to US vaccine recommendations mean for children and the ways food scientists are improving chocolate.",
+    "content": "",
+    "url": "https://www.nature.com/articles/d41586-026-02558-6",
+    "published": "2026-08-13T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "572241487c9380ad02f29a0ebfa80770",
+    "source": "Nature",
+    "title": "Ancient rise in CO 2 was catastrophic for forests: what that means for today’s plants",
+    "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02544-y A widespread dieback of forests due to climate change 56 million years ago has parallels with today.",
+    "content": "",
+    "url": "https://www.nature.com/articles/d41586-026-02544-y",
+    "published": "2026-08-13T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "e3c35004a8710af0c0464f9ad5dbbcb5",
+    "source": "Nature",
+    "title": "Will the mRNA flu shot work better than a regular seasonal one? What the science says",
+    "summary": "Nature, Published online: 13 August 2026; doi:10.1038/d41586-026-02502-8 Moderna’s newly approved vaccine could allow manufacturers to respond more rapidly to changing influenza strains.",
+    "content": "",
+    "url": "https://www.nature.com/articles/d41586-026-02502-8",
+    "published": "2026-08-13T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "e587d06f69eec3a593936eceedb2e320",
+    "source": "Nature",
+    "title": "Lead carboxylates passivation for meter-scale perovskite solar modules",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10994-7 Lead carboxylates passivation for meter-scale perovskite solar modules",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10994-7",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "9056d82eb40db3e051566b00fafa1281",
+    "source": "Nature",
+    "title": "Reply to: Pre-clinical data interpretation requires clinical context",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10773-4 Reply to: Pre-clinical data interpretation requires clinical context",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10773-4",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "6acd638df6f339127d43a1da431ebb75",
+    "source": "Nature",
+    "title": "Pre-clinical data interpretation requires clinical context",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10774-3 Pre-clinical data interpretation requires clinical context",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10774-3",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "55862573786cba0590491d3b2f16956d",
+    "source": "Nature",
+    "title": "Giant balloon gives rise to new view of the Milky Way’s centre",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02463-y Airborne camera gathers data about the high-energy particles emanating from the core of our Galaxy.",
+    "content": "",
+    "url": "https://www.nature.com/articles/d41586-026-02463-y",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "5a859fb1da845aeb03846e3d57e171e7",
+    "source": "Nature",
+    "title": "Rattlesnakes’ own antivenom could protect humans too",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02461-0 A mixture of proteins in snake blood can prevent the death of mice injected with an otherwise lethal dose of venom.",
+    "content": "",
+    "url": "https://www.nature.com/articles/d41586-026-02461-0",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "900ac87104d9ff7a48e362875247a7f9",
+    "source": "Nature",
+    "title": "The probiotic bacteria engineered to treat diabetes",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/d41586-026-02521-5 Genetically modified bacteria lower high blood-sugar in animal trials — plus, how to watch a solar eclipse safely.",
+    "content": "",
+    "url": "https://www.nature.com/articles/d41586-026-02521-5",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "1c53ff141f43f4e94db2be215620b81e",
+    "source": "Nature",
+    "title": "Dataset artefacts can partially drive the measured decline in disruption",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10787-y Dataset artefacts can partially drive the measured decline in disruption",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10787-y",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "6b3bec59e2c958239bbcf62ee436a2f9",
+    "source": "Nature",
+    "title": "Reply to: Dataset artefacts can partially drive the measured decline in disruption",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10788-x Reply to: Dataset artefacts can partially drive the measured decline in disruption",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10788-x",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "a55131b2d84d0e6aaf582e184bbdf09d",
+    "source": "Nature",
+    "title": "Agentic profiles for effective AI governance",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10805-z A framework comprising four dimensions—autonomy, efficacy, goal complexity and generality—is proposed for characterizing AI agents, supporting the construction of agentic profiles for the effective governance of different AI agents.",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10805-z",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "b788fc0948e10102ca41bfb7d3f7e682",
+    "source": "Nature",
+    "title": "Glucose-responsive probiotics for glycaemic modulation in mice and monkeys",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10909-6 Engineered probiotics equipped with a synthetic glucose-responsive circuit transiently colonize the gut and secrete therapeutic factors when glucose levels increase, enabling safe, oral, sense-and-respond control of diabetes in mouse and primate models.",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10909-6",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "f8fc126d0aa8f875afa910df8243753b",
+    "source": "Nature",
+    "title": "Temporal uncoupling of radial glia lineage progression in cortical organoids",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10916-7 RGP lineage tracing in stem-cell-derived organoids shows highly plastic proliferation and reduced clonal neuronal diversity, indicating that missing non-cell-autonomous niche cues are essential for faithful temporal control of cortical lineage progression.",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10916-7",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "a5451be98f2bb4363176b0d391fc4921",
+    "source": "Nature",
+    "title": "Shared principles of human and bacterial antiviral immunity",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10756-5 The Review describes shared ancient, conserved mechanisms between human antiviral immunity and bacterial anti-phage systems, outlining universal principles of pathogen sensing, signalling and effector function that reveal common rules governing host–virus interactions across life.",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10756-5",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "8cd3c61d7b48c132a7f29ad87ef273e6",
+    "source": "Nature",
+    "title": "Cascading continental-scale floods across Europe in 1342–1343",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10888-8 Tracing cascading continental-scale medieval megafloods across Europe indicates that current flood management is unprepared for such sequences, highlighting the urgent need for proactive flood risk management strategies that account for unusual series of extreme flood events.",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10888-8",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "2d795b5ade5c7f5ef77abbb6cfa31204",
+    "source": "Nature",
+    "title": "Rb-driven transcription limits its tumour-suppressive effects in breast cancer",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10886-w CDK4/6 inhibition redirects Rb chromatin occupancy to activate oestrogen-responsive genes, counteracting its own ability to maintain therapeutic cell-cycle arrest.",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10886-w",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "02b60e52bdc3b2dfc519099ff6815d7e",
+    "source": "Nature",
+    "title": "Procognitive restoration of PV neuron plasticity in neurodevelopmental disorders",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10907-8 Expression of Meis2 in hippocampal parvalbumin-expressing interneurons in an adult mouse model of neurodevelopmental disorders rescues experience-dependent plasticity, improves memory and network function and suppresses seizures.",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10907-8",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "b0f688d9ac13e6296caa505bb5985661",
+    "source": "Nature",
+    "title": "A gas-enshrouded and gas-reddened black hole at cosmic dawn",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10846-4 Observations of an unusual cosmic-dawn source illuminate how early supermassive black holes may have grown rapidly in a gas-enshrouded state; such enshrouded black holes may lie at the heart of the 'little red dots'.",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10846-4",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "d44e5923f63cef9329873fea8a3d4800",
+    "source": "Nature",
+    "title": "Towards an equitable future of global photovoltaic waste recycling",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10905-w Global photovoltaic waste will reach 297–402 million tonnes by 2060, and regionally adapted recycling strategies and international cooperation will be needed to provide equitable and scalable PV waste circularity.",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10905-w",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "0260eda944ad3affabe0a85aa3cab8e1",
+    "source": "Nature",
+    "title": "Luminescent-reaction-enabled super-resolution imaging",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10889-7 A new chemistry-based super-resolution imaging framework is described, enabling 3D, laser-free, highly sensitive and ultralong-term imaging of live cells which overcomes the limitations in spatiotemporal resolution associated with reaction-based imaging methods.",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10889-7",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "b40fcb591ee867c396cfcee50f915b03",
+    "source": "Nature",
+    "title": "Degree-of-polarization modulation for high-dimensional optical computing",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10891-z By engineering the statistics of light at the micrometre scale using phase-only spatial light modulators, both the state and degree of polarization become spatially programmable, enabling direct encoding of information in a high-dimensional space.",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10891-z",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "938c84f87b22de60958672371927182f",
+    "source": "Nature",
+    "title": "Neural basis of compositional control",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10896-8 Behaviour of human participants in a prey-pursuit task reflects dynamic blending of goal-specific control policies, with hippocampus estimating latent states, anterior cingulate cortex orchestrating policy switches and orbitofrontal cortex supplying value-based contextualization rather than driving continuous policy updating.",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10896-8",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "7393963f065a2f92f55fe210d3c89934",
+    "source": "Nature",
+    "title": "Structural mechanism governing the directionality of bridge recombination",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10903-y Cryo-electron microscopy structures show how IS621 bridge recombinase mediates DNA excision, explaining its natural preference for insertion and informing the design of programmable bridge-editing technologies.",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10903-y",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "20e959c7ba2863717c095c2febdfd33b",
+    "source": "Nature",
+    "title": "Species intraspecific variation drives tropical forest drought resistance",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10870-4 Substantial intraspecific variation, together with species turnover, drives coordinated shifts in drought resistance such as increased embolism resistance and wider stomatal safety margins in drier forests.",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10870-4",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "2a64c0e76b6944b53af4f9eb5f6f4d2e",
+    "source": "Nature",
+    "title": "Numerous bow shocks in the outer Helix Nebula",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10724-z Shocks in the eastern outskirts of the Helix Nebula, detected in Hα emission with the MOTHRA telescope, provide evidence for the recycling of fragmented stellar ejecta into the surrounding gas.",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10724-z",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "dcdc38dd04bd9437417d840a33db078b",
+    "source": "Nature",
+    "title": "Maternal influences on infant gut microbiome and health",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10922-9 The maternal gut microbiome is a predictor of infant eczema.",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10922-9",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "f0fafa5900f7596f3f3301b6c31f13cc",
+    "source": "Nature",
+    "title": "Evidence for the first globular cluster stellar stream beyond the Milky Way",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10878-w Deep Hubble Space Telescope imaging of the ultra-diffuse galaxy UGC 9050-Dw1 reveals an extragalactic globular cluster stream, with analysis and modelling probing the rich dark matter content of the host galaxy.",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10878-w",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
+    "id": "1f2ec42eb10dca5f9c7c45e6a99ff30c",
+    "source": "Nature",
+    "title": "Heterogeneous climatic controls on tropical-forest biomass",
+    "summary": "Nature, Published online: 12 August 2026; doi:10.1038/s41586-026-10880-2 An analysis of the relationships between aboveground biomass and various climatic factors in three major regions of tropical forest shows that understanding the complex interactions between climate, topography and soils is crucial to predict how climate change will affect carbon storage capacity.",
+    "content": "",
+    "url": "https://www.nature.com/articles/s41586-026-10880-2",
+    "published": "2026-08-12T00:00:00+00:00",
+    "categories": [],
+    "fetched": "2026-08-16"
+  },
+  {
     "id": "46b9621048a692b1b92f27afd2d3017d",
     "source": "China Daily",
     "section": "China Daily 英语学习",
@@ -196,34 +1076,6 @@
     "fetched": "2026-08-16"
   },
   {
-    "id": "9c1fbb089f8cf7d6c8fcc32e8f6a4c17",
-    "source": "China Daily",
-    "section": "每日一词",
-    "title": "每日一词 | 中越人文交流年 China-Vietnam Year of People-to-People Exchanges",
-    "summary": "2025年4月14日，中共中央总书记、国家主席习近平在越共中央驻地同越共中央总书记苏林举行会谈。习近平强调，今年是中越建交75周年暨“中越人文交流年”。",
-    "content": "2025年4月14日，中共中央总书记、国家主席习近平在越共中央驻地同越共中央总书记苏林举行会谈。习近平强调，今年是中越建交75周年暨“中越人文交流年”。\n\nXi Jinping, general secretary of the Communist Party of China Central Committee and Chinese president, held talks with To Lam, general secretary of the Communist Party of Vietnam (CPV) Central Committee, at the CPV Central Committee headquarters on April 14, 2025. This year marks the 75th anniversary of the establishment of diplomatic ties between China and Vietnam, as well as the China-Vietnam Year of People-to-People Exchanges, said Xi.\n\n中越两国山水相连，文化相通，理想相同，命运与共。2025年是中越建交75周年，也是“中越人文交流年”。中越多地开展了丰富多元的人文交流活动，两国传统友谊不断深化，为续写中越命运共同体建设新篇章注入强大动力。\n\n2024年8月20日，《中华人民共和国和越南社会主义共和国关于进一步加强全面战略合作伙伴关系、推进中越命运共同体建设的联合声明》发布。双方宣布2025年为“中越人文交流年”，将共同举办系列活动庆祝中越建交75周年。通过党际、青年、友城等渠道，用好广西、云南、广东、重庆等省区市红色资源，打造形式多样的研学、文旅活动。鼓励更多游客赴对方国家旅游。发挥中国在越文化中心作用，欢迎越南在中国设立文化中心，鼓励开展媒体、新闻出版、广播影视合作，探讨职业教育合作，加强卫生保健、传统医学、防灾减灾等领域交流合作。\n\n2025年1月15日，习近平总书记和苏林总书记共同宣布中越人文交流年正式启动。在庆祝两国建交75周年之际，连民心、有温度、接地气的丰富人文交流活动将在两国民众之间架起更多相知相亲的桥梁。\n\n以2025年“中越人文交流年”为契机，中国将举办更多接地气、得民心的友好活动，加强旅游、文化、媒体、卫生等合作。\n\n以今年“中越人文交流年”为契机，举办更多接地气、得民心的友好活动，加强旅游、文化、媒体、卫生等合作。继续深挖红色资源、讲好友好故事，今后3年邀请越南青年赴华开展“红色研学之旅”，让两国人民特别是青年一代了解红色江山来之不易、两国睦邻友好合作弥足珍贵，为中越关系发展和各自国家建设培育更多有生力量。\n\nChina and Vietnam should take the China-Vietnam Year of People-to-People Exchanges as an opportunity and organize more people-oriented exchange activities, and enhance cooperation in tourism, culture, media, public health and other fields. The two sides should continue to explore resources of revolutionary heritage and promote stories of friendship. In the next three years, China will invite Vietnamese youth to China for \"Red Study Tours\", which will help the younger generation of both countries better understand the hard-won nature of the socialist countries and the great value of China-Vietnam good-neighborliness and friendly cooperation, and will cultivate greater vitality for the development of bilateral relations and the respective national development endeavors.\n\n——2025年4月14日，习近平同越共中央总书记苏林举行会谈时的重要讲话\n\nresources of revolutionary heritage\n\nChina-Vietnam community with a shared future\n\n中国日报网英语点津工作室（本文于“学习强国”学习平台首发）",
-    "url": "https://language.chinadaily.com.cn/a/202504/15/WS67fe2469a3104d9fd381f719.html",
-    "published": "2025-04-15T00:00:00+08:00",
-    "categories": [
-      "每日一词"
-    ],
-    "fetched": "2026-08-16"
-  },
-  {
-    "id": "a3b3cb6cff7d7e8eeb0447678430145f",
-    "source": "China Daily",
-    "section": "每日一词",
-    "title": "每日一词 | 促进健康消费专项行动方案 action plan to boost health-related consumption",
-    "summary": "商务部等12部门联合印发的《促进健康消费专项行动方案》于2025年4月9日发布。",
-    "content": "商务部等12部门联合印发的《促进健康消费专项行动方案》于2025年4月9日发布。\n\nChinese authorities released an action plan to boost health-related consumption on April 9, 2025. The plan was formulated by the country's commerce ministry and 11 other government departments.\n\n近年来，居民健康意识明显增强，健康消费潜力巨大，呈现出市场规模快速增长、业态模式不断创新、消费结构持续优化等特点。为培育和发展健康消费领域新质生产力，提升健康商品和服务供给质量，更好满足人民美好生活需要，商务部、国家卫生健康委等12部门研究制定《促进健康消费专项行动方案》。方案提出提升健康饮食消费水平、优化特殊食品市场供给、丰富健身运动消费场景、大力发展体育旅游产业、增强银发市场服务能力、壮大新型健康服务业态、引导健康产业多元发展、强化药店健康促进功能、组织健康消费促进活动、宣传推广健康理念知识10方面重点任务。\n\n其中，明确打击食品非法添加，开展有机食品认证有效性抽查。完善保健食品事前审评和事后评价机制。加大保健食品、“一老一小”等领域价格违法打击力度。支持地方建设体育公园、健身步道、全民健身中心、社会足球场等场地设施。深入实施“体育赛事进景区、进街区、进商圈”“跟着赛事去旅行”“户外运动 活力山水”等行动。支持老年人家庭适老化改造，研发适老化产品用品。加快建设康复医院、护理院、安宁疗护机构，支持医疗卫生机构开展医养结合服务。引导零售药店拓展健康促进、营养保健等功能。\n\n建立和完善扩大居民消费的长效机制，使居民有稳定收入能消费、没有后顾之忧敢消费、消费环境优获得感强愿消费。\n\nWe must establish and improve a long-term mechanism for expanding residents' consumption, so that residents can consume with a stable income, dare to consume without worries, and are willing to consume due to the excellent consumption environment and strong sense of gain.\n\n——2023年1月31日，习近平在二十届中央政治局第二次集体学习时的重要讲话\n\n人民健康是民族昌盛和国家强盛的重要标志。把保障人民健康放在优先发展的战略位置，完善人民健康促进政策。\n\nPeople's health is a key indicator of a prosperous nation and a strong country. We must give strategic priority to ensuring the people's health and improve policies on promoting public health.\n\n——2022年10月16日，习近平在中国共产党第二十次全国代表大会上的报告\n\nconsumer environment\n\nsports tourism\n\n中国日报网英语点津工作室（本文于“学习强国”学习平台首发）",
-    "url": "https://language.chinadaily.com.cn/a/202504/14/WS67fcd168a3104d9fd381f2ce.html",
-    "published": "2025-04-14T00:00:00+08:00",
-    "categories": [
-      "每日一词"
-    ],
-    "fetched": "2026-08-16"
-  },
-  {
     "id": "d9cb1fbb398c817d2010cd60826f32eb",
     "source": "China Daily",
     "section": "China Daily 英语学习",
@@ -316,118 +1168,6 @@
     "content": "银率网（Bankrate）最新调查显示，目前美国50%的信用卡用户背负卡债。通胀和高利率等因素导致美国家庭难以维持收支平衡，更加依赖信用卡，全美的信用卡债务激增。\n\nEconomic factors like inflation and interest rates are making it hard for some Americans to make ends meet, survey data shows. More people are carrying debt on their credit cards than they have since the early pandemic days. 调查数据显示，通货膨胀和利率等经济因素使一些美国人难以维持收支平衡。自疫情初期以来，背负信用卡债务的美国人比以往任何时候都多。\n\nFifty percent of credit cardholders carry debt from month to month. That’s up from 44 percent in January and is the highest figure Bankrate has observed since March 2020. 50%的信用卡持有人每月都有卡债，比今年1月的44%有所上升，是2020年3月以后银率网观察到的最高纪录。\n\n“High inflation and high interest rates have eroded Americans’ savings and more people are carrying more debt for longer periods of time,” says Ted Rossman, Bankrate senior credit card analyst. 银率网高级信用卡分析师泰德·罗斯曼称：“高通胀和高利率侵蚀了美国人的储蓄，更多的人在更长的时间内背负着更多的债务。”\n\n“Since the beginning of 2021, credit card balances have been off to the races. According to Federal Reserve data, Americans owe 45 percent more now on their credit cards than they did in early 2021. And the credit card delinquency rate is at its highest point since 2011,” he continues. “自2021年初以来，美国人的信用卡欠款余额一直在攀升。根据美联储数据，美国人现在的信用卡欠款比2021年初多45%。信用卡拖欠率处于2011年以来的最高点。”\n\nThe length of time cardholders are carrying debt may be a sign balances have become more difficult to pay off. Three in 5 of those with credit card debt (60 percent) have been in credit card debt for at least a year, up from 50 percent in 2021. 持卡人背负债务的时间长度可能表明欠款余额变得越来越难以偿还。五分之三（60%）的信用卡债务持卡人已经负债至少一年，高于2021年的50%。\n\nThe survey data shows that Americans feel the economy isn’t helping their debt situation. 调查数据显示，美国人觉得美国的经济现状无助于缓解他们的债务状况。\n\nAbout a third (34 percent) of credit card debtors say inflation has made their credit card debt burdens worse since the beginning of 2022, which is when the Fed started raising interest rates to counteract increasing inflation. 大约三分之一（34%）的信用卡债务人表示，自2022年初美联储开始激进加息以抑制通胀以来，通货膨胀使他们的信用卡债务负担更加沉重。\n\nA similar share (32 percent) say high interest rates have made their credit card debt burdens worse since the beginning of 2022. 相似比例（32%）的信用卡债务人表示，自2022年初以来，高利率使他们的信用卡债务负担更加沉重。\n\nRoughly one in four Americans with credit card debt (24 percent) feel less confident in their ability to get out of credit card debt now than they did at the beginning of 2022. Furthermore, about one in six (17 percent) worry they might not be able to make their minimum credit card payments at some point in the next six months. 与2022年初相比，约四分之一（24%）背负信用卡债务的美国人对还清卡债的信心下降。约六分之一（17%）的债务人担心他们可能在未来半年内出现无力支付最低还款额的情况。",
     "url": "https://language.chinadaily.com.cn/a/202408/28/WS66cedb15a31060630b9256c4.html",
     "published": "2024-08-28T00:00:00+08:00",
-    "categories": [
-      "双语新闻"
-    ],
-    "fetched": "2026-08-16"
-  },
-  {
-    "id": "5543d8f74997c3d11a528c527ccf3be2",
-    "source": "China Daily",
-    "section": "双语新闻",
-    "title": "【双语财讯】民调：通胀持续困扰美国民众 生活成本成美国人最关心的问题",
-    "summary": "全球市场研究集团益普索（Ipsos）官网网站报道称，益普索最新民调结果显示，美国人越来越担心通胀问题。由于对美国经济衰退的担忧持续存在，50%的受访者表示，生活成本是他们最关心的问题。全文摘编如下：",
-    "content": "全球市场研究集团益普索（Ipsos）官网网站报道称，益普索最新民调结果显示，美国人越来越担心通胀问题。由于对美国经济衰退的担忧持续存在，50%的受访者表示，生活成本是他们最关心的问题。全文摘编如下：\n\nOur monthly What Worries the World polling finds the majority of Americans think things in their country are on the wrong track these days (63% in July 2024, up from 58% who said the same five years ago in July 2019) and that the current economic situation in their country is bad (56% in July 2024 versus 43% who said the same in July 2019). 益普索7月的月度“世界关心”民意调查发现，大多数美国人（63%）认为美国现在走上了错误的轨道（高于2019年7月的58%），56%的受访者认为美国目前的经济形势很糟糕（2019年7月为43%）。\n\nAnd the stickiness of inflation continues to stick in the minds of the American people. 50% of Americans now say inflation is a top concern for their country, up five percentage points year-over-year. It’s key to note the CPI is set to be up cumulatively by just over 20% since 2020 by the end of this year and daily staples like the food-at-home category is on pace to have soared almost 28% over the past five years 通货膨胀持续困扰美国民众。50%的美国人表示，通货膨胀是美国最关心的问题，同比上升5个百分点。值得注意的是，预计到今年年底，消费者物价指数（CPI）自2020年累计上涨幅度将高于20%，而家庭食品等主要日用品价格在过去五年或将飙升近28%。\n\n“I think the key thing that has been suppressing consumer sentiment has been inflation,” says Chris Jackson, Senior Vice President of Public Affairs for Ipsos in the US. “The cost of living has been a real drag for people. … Inflation has been the thing that’s front and center and what really dominates Americans’ minds, in particular, is those costs that they see regularly, like when they go and fill up their car at the gas station every week.” 益普索美国公共事务高级副总裁克里斯·杰克逊（Chris Jackson）表示：“我认为抑制消费者信心的主要因素是通货膨胀。生活成本对美国人来说是真正的负担……通胀一直是首要和核心的问题，真正困扰美国人思想的是他们经常看到的成本，比如他们每周给车加油的时候。”\n\nWhile inflation is down the cost of everything, from hot dogs to houses, soared during and after the pandemic while one’s wages didn’t necessarily keep up. Plus, the Fed has kept key interest rates at 5.25% to 5.5% for now, meaning the ultimate cost (including borrowing money for big-ticket purchases) remains quite high for many consumers. 虽然通胀率有所下降，但经过疫情后，从热狗到房子，所有商品的价格都在飙升，而人们的工资却不一定跟得上物价上涨速度。此外，美联储目前将基准利率维持在5.25%至5.5%，这意味着许多消费者的最终成本（包括购买大件商品的借贷成本）仍然相当高。\n\n英文来源：ipsos.com 编辑：董静 审校：齐磊 陈丹妮",
-    "url": "https://language.chinadaily.com.cn/a/202408/27/WS66cd3b95a31060630b925209.html",
-    "published": "2024-08-27T00:00:00+08:00",
-    "categories": [
-      "双语新闻"
-    ],
-    "fetched": "2026-08-16"
-  },
-  {
-    "id": "d4b28d22f4734b2c40d485b65eee1a38",
-    "source": "China Daily",
-    "section": "双语新闻",
-    "title": "【双语财讯】我国连续11年成为全球最大工业机器人市场 China remains world's largest industrial robot market",
-    "summary": "在2024世界机器人大会上，工业和信息化部副部长辛国斌表示，十年来，我国机器人产业“从小到大”，已经成为全球机器人科技创新、应用拓展和行业治理的重要力量。相关有效专利超19万项，占全球比重约2/3；连续11年成为全球最大工业机器人市场，近3年新增装机量占全球一半以上。",
-    "content": "在2024世界机器人大会上，工业和信息化部副部长辛国斌表示，十年来，我国机器人产业“从小到大”，已经成为全球机器人科技创新、应用拓展和行业治理的重要力量。相关有效专利超19万项，占全球比重约2/3；连续11年成为全球最大工业机器人市场，近3年新增装机量占全球一半以上。\n\nChina has remained the world's largest market for industrial robots for an 11th consecutive year, Xin Guobin, vice minister of the Ministry of Industry and Information Technology (MIIT) said at the ongoing 2024 World Robot Conference in Beijing. 2024世界机器人大会当前正在北京举行，工业和信息化部副部长辛国斌在大会上表示，我国连续11年成为全球最大工业机器人市场。\n\nData shows that in 2023, China's industrial robot production had reached 430,000 sets, while the country's newly added robot installations accounted for more than half of the global market over the past three years, said Xin Guobin. 据辛国斌介绍，数据显示，2023年我国工业机器人产量为43万套，近3年新增装机量占全球一半以上。\n\nAfter a decade of rapid development, China has become a strong promoter of the growth of the global robot industry, Xin added. 辛国斌称，经过十年的快速发展，中国已成为全球机器人产业增长的有力推动者。\n\nXin said that over the years, China's robot industry has made great progress in innovation and development, and new breakthroughs have been achieved in the research and development of bionic perception, cognition, planning and control technologies. 辛国斌表示，多年来，我国机器人产业在创新发展方面取得了长足进步，在仿生感知、认知、规划和控制技术研发方面实现了新的突破。\n\nAs of July 2024, China boasted more than 190,000 effective robot-related patents, accounting for about two-thirds of the global total. 截至2024年7月，中国拥有机器人相关有效专利超19万项，占全球比重约2/3。\n\nAccording to Xin, China is deepening implementation of the \"Robot plus Application\" initiative, promoting the integration of robots across various industries. During the past 10 years, the number of robots per 10,000 workers in China's manufacturing sector has surged from 49 to 470. 辛国斌说，我国正在深入实施“机器人+”应用行动，促进机器人在各行各业的融合。过去十年间，制造业机器人密度从每万名工人49台激增至470台。\n\nThe five-day conference began on Wednesday, with 169 enterprises from around the world participating, including major global players like Tesla and Siasun. Participating companies are showcasing more than 600 units of robots, with over 60 of them making their world debuts at this conference. 本届世界机器人大会于8月21日开幕，为期5天，共有169家国内外机器人企业参展，其中包括特斯拉和新松等全球主要企业。参展企业展示了600余件机器人产品，其中首发新品60余款。\n\n英文来源：新华网 编译：丹妮 审校：董静、齐磊",
-    "url": "https://language.chinadaily.com.cn/a/202408/23/WS66c8571da31060630b924aff.html",
-    "published": "2024-08-23T00:00:00+08:00",
-    "categories": [
-      "双语新闻"
-    ],
-    "fetched": "2026-08-16"
-  },
-  {
-    "id": "6d63df9100dfa5505ddc89d5102eeddc",
-    "source": "China Daily",
-    "section": "双语新闻",
-    "title": "国产游戏《黑神话：悟空》火爆全球 中国文化“出海”绽放魅力",
-    "summary": "由游戏科学工作室开发、以中国神话为背景的国产首款大型3A游戏《黑神话：悟空》近日上线，在全球游戏市场引发一场“中国风潮”，吸引无数玩家和全球媒体关注。",
-    "content": "由游戏科学工作室开发、以中国神话为背景的国产首款大型3A游戏《黑神话：悟空》近日上线，在全球游戏市场引发一场“中国风潮”，吸引无数玩家和全球媒体关注。\n\n\"'Black Myth: Wukong' ... was being played on Wednesday by 2.2 million concurrent players on Steam, a major online gaming platform, a day after its release,\" Reuters reported on Wednesday. 路透社21日报道称：“《黑神话：悟空》……在发布一天后，在Steam游戏平台上的同时在线玩家数已突破220万。”\n\nThe video game, inspired by the ancient Chinese tale \"Journey to the West,\" surpassed the popularity of other much-hyped single-player titles like Cyberpunk 2077 and Elden Ring, according to data tracker SteamDB. 数据追踪公司SteamDB称，这款以中国神话故事《西游记》为灵感的电子游戏的热度已超过《赛博朋克2077》、《艾尔登法环》等其他热门单机游戏。\n\n\"The success of the game shows that Chinese game developers have high-end development capabilities for AAA games and can compete with Western studios on the global stage,\" Daniel Ahmad, senior analyst at Niko Partners, was quoted by Bloomberg as saying. 彭博社援引美国游戏数据分析服务提供商Niko Partners高级分析师丹尼尔·艾哈迈德的话称，《黑神话：悟空》的成功表明，中国游戏开发商已具备开发高质量3A游戏的能力，足以在全球游戏市场中与西方游戏工作室一较高下。\n\nWukong, or Monkey King, is an iconic figure from \"Journey to the West\" -- a Chinese classic novel dating back about 500 years. 悟空是《西游记》中的主角之一，这部中国经典小说的历史可以追溯到大约500年前。\n\nAn interest in the ancient Chinese literature \"Journey to the West\" has been aroused among netizens and players. 网民和该游戏玩家对中国古代文学《西游记》产生了浓厚的兴趣。\n\n\"Chinese games like 'Black Myth: Wukong' embrace traditional cultural aesthetics. This might be refreshing after years of excessive cyberpunk styles and over-the-top colors. Few things are as rich and diverse as the traditional tales of ancient cultures,\" a X user, \"LearningTheLaw,\" says. 国外社交媒体平台X用户“LearningTheLaw”写道：“《黑神话：悟空》等中国游戏正积极融入中国传统文化美学元素，这或许能为充斥着赛博朋克与夸张色彩的游戏世界，带来一种让人耳目一新的体验。古典文化中的经典故事是如此绚丽多彩，鲜有事物能与之媲美。”\n\nThe Time Of India newspaper reported Tuesday that the newly released game has taken the gaming world by storm. \"Overall, the success of 'Black Myth: Wukong' signals a new era for Chinese video games on the global stage, showcasing the potential for high-budget, culturally rich titles from China to captivate audiences worldwide,\" it added. 《印度时报》20日报道称，《黑神话：悟空》在风靡全球游戏市场，“总的来说，这款游戏的成功标志着中国电子游戏在全球舞台上进入了新时代，展示了中国高预算、文化内涵丰富的游戏吸引全球观众的潜力”。\n\n英文来源：新华社 编辑：董静 审校：万月英 陈丹妮",
-    "url": "https://language.chinadaily.com.cn/a/202408/23/WS66c856b6a31060630b924afc.html",
-    "published": "2024-08-23T00:00:00+08:00",
-    "categories": [
-      "双语新闻"
-    ],
-    "fetched": "2026-08-16"
-  },
-  {
-    "id": "59481506aa1117d90e5b88ca9051b215",
-    "source": "China Daily",
-    "section": "双语新闻",
-    "title": "今日处暑：关于处暑节气的6个小常识 24 Solar Terms: 6 things you may not know about End of Heat",
-    "summary": "The traditional Chinese solar calendar divides the year into 24 solar terms. End of Heat, the 14th solar term of the year, begins this year on Aug 22 and ends on Sept 6. 中国传统二十四节气的第14个节气是处暑，今年的处暑从8月22日开始，9月6日结束。",
-    "content": "The traditional Chinese solar calendar divides the year into 24 solar terms. End of Heat, the 14th solar term of the year, begins this year on Aug 22 and ends on Sept 6. 中国传统二十四节气的第14个节气是处暑，今年的处暑从8月22日开始，9月6日结束。\n\nEnd of Heat implies that most parts in China are getting rid of the hot summer and entering autumn. But in some areas, especially in South China, autumn is late in coming and people are still bothered by hot weather. End of Heat is also the busy harvest season for farmers. 处暑的到来意味着中国大部分地区即将结束炎夏，进入秋季。但是在部分地区，尤其是在南方地区，秋季来得较迟，人们依然要忍受酷热的天气。处暑也是农民忙秋收的时节。\n\nThe following are six things you should know about End of Heat. 一起来了解一下关于处暑的6个小常识。\n\nEnjoying fall colors in early September 欣赏早秋的绚烂景色\n\nIn China, regions beyond the Great Wall will enter autumn in early September. People can enjoy the scenery as it changes gradually from summer to autumn. 在中国，长城以北地区会在9月初进入秋季。人们可以欣赏自夏入秋逐渐变化的景色。",
-    "url": "https://language.chinadaily.com.cn/a/202408/22/WS66c6fc8da31060630b92472d.html",
-    "published": "2024-08-22T00:00:00+08:00",
-    "categories": [
-      "双语新闻"
-    ],
-    "fetched": "2026-08-16"
-  },
-  {
-    "id": "27a192afb6d2254342622f54d3dec220",
-    "source": "China Daily",
-    "section": "双语新闻",
-    "title": "【双语财讯】瑞幸咖啡计划在年底大规模出海 Report: Luckin Coffee planning massive overseas expansion",
-    "summary": "据报道，瑞幸咖啡计划于2024年四季度至2025年一季度启动大规模出海计划，重点考虑东南亚和美国市场。",
-    "content": "据报道，瑞幸咖啡计划于2024年四季度至2025年一季度启动大规模出海计划，重点考虑东南亚和美国市场。\n\nLuckin Coffee, China's largest coffee brand by store number, is planning a massive expansion in the fourth quarter of this year and the first quarter of 2025, to fuel its next phase of growth amid intense competition in the domestic market, according to a media report. 媒体报道称，中国最大咖啡品牌、在国内门店总数最多的瑞幸咖啡计划于2024年四季度至2025年一季度期间启动大规模出海计划，在国内市场竞争激烈的环境下寻求新的增长点。\n\nLatepost, a unit of Caijing Magazine, reported that Luckin is planning to expand overseas with focus on Southeast Asia and the United States. 据财经杂志晚点团队报道，瑞幸咖啡计划海外扩张，重点考虑东南亚和美国市场。\n\nLuckin runs over 20,000 stores in China, with its operations covering both online and offline channels. 瑞幸咖啡在中国门店已突破2万家，采用线上线下一体化运营模式。\n\nThere are 38 directly run Luckin stores in Singapore, with the first one having opened in April 2023. Unlike in China, Luckin does not prioritize its low-price approach in Singapore. 2023年4月，瑞幸在新加坡开出海外首店，目前在新加坡有38家直营门店。与在国内不同，瑞幸在新加坡没有采用价格战策略。\n\nThe company views the Singapore market as a testing ground for its overseas operations and business model development. Latepost reported that over the next three to five years, the coffee chain aims to expand its operations in neighboring regions, with Singapore serving as the headquarters for its operations in Southeast Asia. 瑞幸将新加坡视作打响海外知名度和商业模式的试验田。据晚点团队报道，未来3-5年，瑞幸计划以新加坡为东南亚总部，逐步向周边国家和地区市场扩展。\n\nIn the first half of this year, Luckin started discussions with BJ Food, the franchiser of Starbucks in Malaysia, to form a joint venture for entry into the Malaysian market. 今年上半年，瑞幸开始与星巴克在马来西亚的代运营商成功食品洽谈，探讨以合资形式开设新公司进入马来西亚。\n\nA strong supply chain has helped Luckin to cut costs. Since 2019, the company has built two roasteries with another one under construction. 强大的供应链帮助瑞幸降低了成本。自2019年以来，瑞幸已经建成两家烘焙加工厂并投入生产，还有一家工厂正在建设中。\n\nIn June, Luckin announced plans to buy about 120,000 metric tons of coffee beans from Brazil from 2024 to 2025. Brazil is currently one of the most cost-effective coffee bean producing regions in the world. In 2022, Luckin signed a three-year agreement to buy about 45,000 tons of coffee beans from Brazil. 今年6月，瑞幸对外宣布，计划于2024年-2025年向巴西相关咖啡产区采购总量约12万吨的咖啡豆，巴西目前是全球最具性价比的咖啡豆产区之一。此前，瑞幸曾于2022年签下在巴西三年采购总量约4.5万吨咖啡豆的计划。\n\nIn the domestic market, Luckin has sought growth by expanding into tea-based beverages, rolling out new products like the light jasmine tea, a runaway hit that sold 11 million cups in its first week. 在国内市场，瑞幸通过推出“轻轻茉莉”等新产品向茶饮市场进军，这款热门新品首周销量突破了1100万杯。\n\nThe move is aimed to attract tea-drinking consumers during afternoons that are seen to have significant growth potential for coffee shops. 此举意在抢占对咖啡店而言具有巨大增长潜力的下午茶市场。\n\nChinese tea brands Chagee and Heytea have opened pop-up stores in Paris during the 2024 Olympic Games. In March, Chagee launched its first drive-through store in Malaysia. Heytea began global expansion in 2018 and now has nearly 30 stores abroad. 在2024年奥运会期间，中国茶饮品牌霸王茶姬和喜茶将快闪店开到了法国巴黎。今年3月，霸王茶姬在马来西亚首家“车进车出”门店开张。喜茶于2018年开始向海外扩张，如今在海外拥有近30家门店。\n\nAs of June, ChaPanda had eight stores in South Korea, Thailand and Australia. Tianlala has set its sights on Indonesia and aims to open 300 stores. Mixue Bingcheng, a beverage chain, operates more than 4,000 stores overseas. 截至今年6月，茶百道在韩国、泰国和澳大利亚已拥有8家海外门店。茶饮品牌甜啦啦计划在印尼开设300家门店。饮料连锁品牌蜜雪冰城在海外门店已超过4000家。\n\n英文来源：中国日报 编译：丹妮 审校：董静、齐磊",
-    "url": "https://language.chinadaily.com.cn/a/202408/21/WS66c5a3c1a31060630b92438e.html",
-    "published": "2024-08-21T00:00:00+08:00",
-    "categories": [
-      "双语新闻"
-    ],
-    "fetched": "2026-08-16"
-  },
-  {
-    "id": "65f13df156b0df3aa2c401f29b00f4fd",
-    "source": "China Daily",
-    "section": "双语新闻",
-    "title": "O型血更“招蚊子”是真的吗？",
-    "summary": "每到夏季，总有人会发出灵魂拷问：为什么被“叮”的总是我？明明共处一室，有些人独得蚊子“恩宠”，而有些人却能全身而退。这是因为，蚊子也是有喜好的。那么，蚊子更喜欢哪类人群呢？",
-    "content": "每到夏季，总有人会发出灵魂拷问：为什么被“叮”的总是我？明明共处一室，有些人独得蚊子“恩宠”，而有些人却能全身而退。这是因为，蚊子也是有喜好的。那么，蚊子更喜欢哪类人群呢？\n\nDo mosquitoes prefer a certain blood type? Maybe—but it’s not just one factor that influences why these winged pests are attracted to us and researchers can’t seem to agree on a definitive answer. 蚊子喜欢某种血型吗？可能是这样的，但这不是有些人招蚊子的唯一因素，研究人员似乎无法就这个问题的答案达成一致。\n\nThere are two kinds of people in the world: those who return from time in the outdoors covered in itchy mosquito bites and those who can spend hours in the same space and avoid getting bitten at all. Let's face it, mosquitoes are not equal opportunity feasters. 世界上有两种人：一种是从户外回来时被蚊子叮咬发痒的人，另一种是可以在同一个地方呆上几个小时而完全避免被叮咬的人。事实是，蚊子并不会“平等地”叮咬每个人。\n\nSo, what exactly makes some people more attractive to mosquitoes than others? 那么，究竟是什么让一些人比其他人对蚊子更有吸引力呢？\n\nScience reveals that a variety of factors might make you more palatable to mosquitoes, from your skin microbiota and carbon dioxide emitted in your breath to the color of clothing you're wearing (with colors like red, orange, and black being the most attractive to mosquitoes). But in the end, much of the variation in mosquito preference comes down to two factors: our natural body odor and genetics. 科学表明，很多因素都可能会影响人类对蚊子的吸引力，包括皮肤微生物群、呼吸中排放的二氧化碳、穿衣颜色（红色、橙色和黑色等颜色对蚊子最有吸引力）。但最终，蚊子的“偏爱”主要取决于两个因素：人类的自然体味和遗传。\n\nOnly the females bite humans and they do it to get a “blood meal,” deriving proteins from our blood to produce their eggs. To help locate their prey, female mosquitoes use their antennae and palps, the organs between their antennae, to detect carbon dioxide and odor. That means people who have a high metabolic rate and emit more carbon dioxide, including those who are pregnant, working out, or drinking alcohol tend to be more attractive to mosquitoes. 只有雌性蚊子会叮咬人类，它们这样做是为了获得“血液”，从人的血液中提取蛋白质来产卵。为了帮助定位猎物，雌性蚊子利用触角和触须来探测二氧化碳和气味。这意味着新陈代谢率高、排放更多二氧化碳的人（如怀孕、锻炼或饮酒的人）往往对蚊子更具吸引力。\n\nThe question of whether mosquitos prefer a certain blood type is controversial. One theory suggests that blood type may also help determine mosquito preference. If that’s the case, what blood type do mosquitos like? A 2019 study found that the major mosquito vector of dengue virus preferred people with type O blood to those with other blood types. 蚊子是否更偏爱某种血型？对此科学界是有争议的。一种理论认为，血型可能影响蚊子的“偏好”。如果这是真的，蚊子喜欢什么血型？2019年的一项研究发现，与其他血型的人相比，作为登革热病毒的主要传播媒介的蚊子更喜欢O型血的人。\n\nHowever, separate research notes that experimental and laboratory data evaluating whether blood type makes one person more (or less) attractive to mosquitoes has fueled a lot of speculation, but the science is contradictory. Instead, the researchers report that the likelihood of being a “mosquito magnet” has more to do with skin odors and microbiota than blood type. 然而，另一项研究指出，该实验和实验室数据评估了血型是否会使一个人更吸引蚊子（或不那么吸引蚊子），这引发了许多猜测，但科学是相互矛盾的。该研究人员报告说，“招蚊子”的因素更多与皮肤气味和微生物群有关，而不是血型。\n\n英文来源：Pfizer 编辑：董静 审校：万月英 陈丹妮",
-    "url": "https://language.chinadaily.com.cn/a/202408/21/WS66c5a02da31060630b92437d.html",
-    "published": "2024-08-21T00:00:00+08:00",
-    "categories": [
-      "双语新闻"
-    ],
-    "fetched": "2026-08-16"
-  },
-  {
-    "id": "2156ee969a1b02133f4564c026d65e50",
-    "source": "China Daily",
-    "section": "双语新闻",
-    "title": "研究：刷短视频会让人感觉更无聊 Scrolling through online videos increases feelings of boredom, study finds",
-    "summary": "现在刷短视频已经成为一种主流娱乐方式，很多人每天都刷到无法自拔。然而研究发现，刷短视频，尤其是不断地快进或跳过视频，事实上会让人感觉更无聊。",
-    "content": "现在刷短视频已经成为一种主流娱乐方式，很多人每天都刷到无法自拔。然而研究发现，刷短视频，尤其是不断地快进或跳过视频，事实上会让人感觉更无聊。\n\nBrowsing videos on TikTok or YouTube can be a hit-and-miss affair, with gems lurking amid mediocre efforts. But researchers have found that switching to another video, or skipping forwards and backwards in the same one, actually makes people more bored. 刷短视频就是在碰运气，刷半天或许可以刷到一个有趣的视频。但是研究人员发现，不断地切换视频，跳到下一个，或者返回上一个视频重复观看，事实上会让人感到更加无聊。\n\nDr Katy Tam at the University of Toronto Scarborough, the lead author of the research, said boredom was closely linked to attention. 该研究的首席作者、多伦多大学士嘉堡校区的凯蒂·塔姆博士表示，这种无聊感和专注度密切相关。\n\n\"We feel bored when there’s a gap between how engaged we are and how engaged we want to be,” she said. “When people keep switching through videos, they become less engaged with the videos and they are looking for something more interesting. This can lead to increased feelings of boredom.” 她说：“当我们的专注度和我们想要专注的程度之间有落差时，我们就会感到无聊。在人们不断切换视频时，他们对视频的专注度开始下降，心里想下一个视频会不会更有趣？这会让人们感觉更无聊。”\n\nThe results appear to chime with other studies: as the team notes, previous research has suggested that while boredom relief is a driver for people to use social media or smartphones, the use of such technology appears to make the feeling worse. 这一研究结果和其他研究的结论不谋而合。研究团队指出，先前的研究发现，无聊促使人们去使用社交媒体或智能手机，而这些技术的使用似乎又让人感到更加无聊。\n\nWriting in the Journal of Experimental Psychology: General , Tam and colleagues report how they carried out seven experiments involving a total of more than 1,200 participants. 塔姆和同事在《实验心理学杂志：总论》中介绍，他们开展了7项实验，参与者超过1200人。\n\nThe first, involving 140 participants, revealed that people tended to switch between videos more when they rated the content more boring, while the second – an online survey involving 231 participants – suggested people thought having the option to skip through a video or switch to another would make viewing a video less boring. 第一项实验有140人参与，结果表明，当人们觉得视频内容无聊时，人们会更频繁地切换视频。另外一项网上开展的调查共有231人参与，结果表明，人们认为，可以选择跳过或切换到另一个视频会让观看视频不那么无聊。\n\nHowever, the team’s subsequent experiments suggest this is not the case. 但是，该团队接下来的实验却发现，事实并非如此。\n\nData from a group of 166 undergraduates suggests participants felt more bored when allowed to skip about within a video than when they were not able to, while results from 159 undergraduates revealed they reported higher levels or boredom when given a collection of five-minute videos they could switch between, compared with a single 10-minute video. 一项收集了166名大学生的数据的实验结果发现，当参与者能够随意切换视频时，相比不能随意切换的情况，会感觉看视频更加无聊。另外一项对159名大学生的实验结果发现，当他们能够随意切换着看一组单个时长5分钟的视频时，相比只看一个时长10分钟的视频，参与者感觉更无聊。\n\n\"Our research shows that while people fast-forward or skip videos to avoid boredom, this behaviour can actually make them feel more bored,” she said. “Just as we pay for an immersive experience in a movie theatre, enjoyment often comes from immersing ourselves in videos rather than swiping through them.” 塔姆表示：“我们的研究表明，当人们为了避免无聊而快进或跳过视频时，这种行为反而会让自己感到更无聊。就像我们付钱去享受影院的沉浸式体验一样，观看视频的快感往往源于全身心的投入而不是不断地切换。”",
-    "url": "https://language.chinadaily.com.cn/a/202408/20/WS66c45c0ca31060630b924093.html",
-    "published": "2024-08-20T00:00:00+08:00",
-    "categories": [
-      "双语新闻"
-    ],
-    "fetched": "2026-08-16"
-  },
-  {
-    "id": "33d30cd82fcec535485761feabcfd3e1",
-    "source": "China Daily",
-    "section": "双语新闻",
-    "title": "【双语财讯】外国专家警告：美国经济衰退迫在眉睫",
-    "summary": "近日美国劳动力市场放缓、股市动荡，引发市场对美国经济衰退的担忧。专家警告称，种种迹象表明美国经济衰退即将到来。",
-    "content": "近日美国劳动力市场放缓、股市动荡，引发市场对美国经济衰退的担忧。专家警告称，种种迹象表明美国经济衰退即将到来。\n\nAfter 11 consecutive aggressive rate hikes by the Fed from March 2022 to July 2023, the target range for the US federal funds rate has risen to between 5.25 percent and 5.5 percent. Radhika Desai, visiting professor at the London School of Economics, says high interest rates will suppress market vitality and trigger crises. US interest rates have now reached a high level that resembles that of the 2008 subprime crisis, and \"the recession is essentially imminent.\" 在2022年3月至2023年7月美联储连续11次大幅加息后，美国联邦基金利率目标区间已升至5.25%至5.5%之间。伦敦政治经济学院客座教授拉荻卡·德赛表示，高利率将抑制市场活力并引发危机。目前美国利率已达2008年次贷危机时的高位，“经济衰退迫在眉睫”。\n\nThe US economy is now showing signs of slowing. The July jobs report was softer than expected, with the unemployment rate rising for the fourth straight month — sparking a market sell-off and heightening fears of an impending recession. 美国经济现在显示出放缓的迹象。7月份就业数据低于预期，失业率连续第四个月上升，引发了股市抛售，加剧了人们对美国经济衰退即将到来的担忧。\n\nIn light of recent economic developments, J.P. Morgan Research has raised the probability of a U.S. and global recession starting before end-2024 to 35%. “US news hints at a sharper-than-expected weakening in labor demand and early signs of labor shedding,” said Bruce Kasman, Chief Global Economist at J.P. Morgan. 鉴于最近的经济形势，摩根大通研究部将2024年底之前美国和全球经济衰退的可能性提高到35%。摩根大通首席全球经济学家布鲁斯·卡斯曼表示：“美国的市场信息暗示，劳动力需求的疲软程度高于预期，并有裁员的早期迹象。\n\n英文来源：CGTN, J.P. Morgan",
-    "url": "https://language.chinadaily.com.cn/a/202408/20/WS66c45b10a31060630b924088.html",
-    "published": "2024-08-20T00:00:00+08:00",
     "categories": [
       "双语新闻"
     ],

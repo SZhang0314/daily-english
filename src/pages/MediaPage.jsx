@@ -17,6 +17,9 @@ export default function MediaPage() {
   const [showEn, setShowEn] = useState(true)
   const [showZh, setShowZh] = useState(true)
   const [activeWord, setActiveWord] = useState(null)
+  const [media, setMedia] = useState(null)
+  const [mediaOpen, setMediaOpen] = useState(false)
+  const [pickedMedia, setPickedMedia] = useState(null)
 
   // 浏览器语音识别（口语转录字幕）
   const [listening, setListening] = useState(false)
@@ -51,6 +54,27 @@ export default function MediaPage() {
   }
 
   useEffect(() => () => recognitionRef.current?.stop(), [])
+
+  useEffect(() => {
+    fetch('data/media.json')
+      .then((r) => r.ok ? r.json() : [])
+      .then((d) => setMedia(Array.isArray(d) ? d : []))
+      .catch(() => setMedia([]))
+  }, [])
+
+  const pickMedia = (m) => {
+    setSource(m.source || 'TED')
+    setPickedMedia(m)
+    setResult(null)
+    setError('')
+    window.scrollTo({ top: 0, behavior: 'smooth' })
+  }
+
+  const fmtDuration = (sec) => {
+    if (!sec) return ''
+    const m = Math.floor(sec / 60), s = sec % 60
+    return `${m}:${String(s).padStart(2, '0')}`
+  }
 
   const handleFile = async (e) => {
     const file = e.target.files?.[0]
@@ -88,6 +112,52 @@ export default function MediaPage() {
         来源包括 TED、VOA、BBC、CNN、脱口秀等，每周更新。上传音视频后用浏览器语音识别转录，或粘贴字幕；
         AI 生成重点词与长难句注释、雅思/托福词汇分级、文末词汇总结；下方字幕支持中英文独立开关。
       </p>
+
+      <div className="card">
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: 10 }}>
+          <div className="label zh" style={{ fontSize: 14, color: '#000', fontWeight: 700 }}>音视频储备（TED 每周更新）</div>
+          <button onClick={() => setMediaOpen(!mediaOpen)}>
+            {mediaOpen ? '收起' : `展开（${media ? media.length : 0} 条）`}
+          </button>
+        </div>
+        {media === null ? (
+          <div className="notice zh" style={{ marginTop: 10 }}>正在加载…</div>
+        ) : media.length === 0 ? (
+          <div className="notice zh" style={{ marginTop: 10 }}>
+            暂无储备。可运行 <code>python tools/fetch_media.py</code> 抓取 TED 演讲。
+          </div>
+        ) : (
+          <div className="notice zh" style={{ marginTop: 10 }}>
+            共 {media.length} 条 TED 演讲。点选后自动填入来源，打开原视频即可用「开始转录录音」边播边识别，或粘贴字幕。
+          </div>
+        )}
+        {mediaOpen && media && media.length > 0 && (
+          <div className="subtitle-track" style={{ marginTop: 10, maxHeight: 360 }}>
+            {media.map((m) => (
+              <div key={m.id}
+                className="subtitle-line"
+                style={{ cursor: 'pointer', padding: '8px 0' }}
+                onClick={() => pickMedia(m)}>
+                <span style={{ flex: 1 }}>
+                  <span className="tag">{m.source || 'TED'}</span>
+                  {m.published ? m.published.slice(0, 10) : ''}
+                  {fmtDuration(m.duration) ? <span className="muted"> · {fmtDuration(m.duration)}</span> : null}
+                  <span style={{ marginLeft: 8, fontWeight: pickedMedia?.id === m.id ? 700 : 400 }}>
+                    {m.title}
+                  </span>
+                  {m.speaker ? <span className="muted" style={{ marginLeft: 6 }}>— {m.speaker}</span> : null}
+                </span>
+              </div>
+            ))}
+          </div>
+        )}
+        {pickedMedia && (
+          <div className="notice zh" style={{ marginTop: 10 }}>
+            已选：<b>{pickedMedia.title}</b>（{pickedMedia.speaker}）
+            <a href={pickedMedia.url} target="_blank" rel="noreferrer" style={{ marginLeft: 8, textDecoration: 'underline' }}>打开原视频 ↗</a>
+          </div>
+        )}
+      </div>
 
       <div className="card">
         <div style={{ display: 'flex', gap: 16, flexWrap: 'wrap', marginBottom: 12 }}>

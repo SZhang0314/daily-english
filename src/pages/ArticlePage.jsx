@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import { analyzeArticle } from '../lib/article.js'
 import { hasKey } from '../lib/deepseek.js'
+import { parseFile } from '../lib/fileParsers.js'
 import {
   LevelTag, WordBank, SummaryTable, HighlightedText, WordDetail,
 } from '../components/Annotation.jsx'
@@ -14,6 +15,7 @@ export default function ArticlePage() {
   const [content, setContent] = useState('')
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState('')
+  const [parsing, setParsing] = useState(false)
   const [result, setResult] = useState(null)
   const [activeWord, setActiveWord] = useState(null)
   const [showTranslation, setShowTranslation] = useState(true)
@@ -50,8 +52,17 @@ export default function ArticlePage() {
     if (!file) return
     setError('')
     const ext = file.name.split('.').pop().toLowerCase()
-    if (ext === 'pdf') {
-      setError('PDF 解析需要在本地工具（如 pdf 转文本）处理后粘贴，或上传 .txt/.md/.html 纯文本。')
+    if (ext === 'pdf' || ext === 'docx') {
+      setParsing(true)
+      try {
+        const text = await parseFile(file)
+        setContent(text || '')
+        if (!title) setTitle(file.name.replace(/\.[^.]+$/, ''))
+      } catch (err) {
+        setError(`解析 ${ext.toUpperCase()} 失败：${err.message || err}`)
+      } finally {
+        setParsing(false)
+      }
       return
     }
     const text = await file.text().catch(() => '')
@@ -82,7 +93,7 @@ export default function ArticlePage() {
       <div className="section-title zh">每日英文文章精读</div>
       <p className="muted small zh">
         来源包括 China Daily、The Guardian、National Geographic、The New York Times、The Economist、Nature、Science 及其子刊；
-        可人工粘贴或上传 .txt / .md / .html。翻译、重点词与长难句注释、雅思/托福词汇分级、文末词汇总结由 AI 生成。
+        可人工粘贴或上传 .txt / .md / .html / .pdf / .docx（PDF 与 Word 在浏览器本地解析）。翻译、重点词与长难句注释、雅思/托福词汇分级、文末词汇总结由 AI 生成。
       </p>
 
       <div className="card">
@@ -157,9 +168,9 @@ export default function ArticlePage() {
 
         <div style={{ display: 'flex', gap: 12, alignItems: 'center', flexWrap: 'wrap' }}>
           <label className="label zh" style={{ display: 'inline-flex', alignItems: 'center', gap: 8 }}>
-            上传文件
-            <input type="file" accept=".txt,.md,.html,.htm" onChange={handleFile}
-              style={{ width: 'auto' }} />
+            {parsing ? <span className="spinner" /> : '上传文件'}
+            <input type="file" accept=".txt,.md,.html,.htm,.pdf,.docx" onChange={handleFile}
+              disabled={parsing} style={{ width: 'auto' }} />
           </label>
           <button className="primary" onClick={run} disabled={loading}>
             {loading ? <><span className="spinner" />分析中…</> : '开始精读'}
