@@ -1,0 +1,89 @@
+[
+  {
+    "name": "China Daily",
+    "enabled": true,
+    "feeds": [
+      "http://www.chinadaily.com.cn/rss/china_rss.xml",
+      "http://www.chinadaily.com.cn/rss/world_rss.xml",
+      "http://www.chinadaily.com.cn/rss/bizchina_rss.xml",
+      "http://www.chinadaily.com.cn/rss/cndy_rss.xml"
+    ]
+  },
+  {
+    "name": "The Guardian",
+    "enabled": false,
+    "note": "国内网络直连超时，需海外网络或代理",
+    "feeds": [
+      "https://www.theguardian.com/world/rss",
+      "https://www.theguardian.com/international/rss",
+      "https://www.theguardian.com/education/rss"
+    ]
+  },
+  {
+    "name": "BBC News",
+    "enabled": false,
+    "note": "国内网络直连超时，需海外网络或代理",
+    "feeds": [
+      "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+    ]
+  },
+  {
+    "name": "Nature",
+    "enabled": false,
+    "note": "国内网络直连超时，需海外网络或代理",
+    "feeds": [
+      "https://www.nature.com/nature.rss"
+    ]
+  },
+  {
+    "name": "Science",
+    "enabled": false,
+    "note": "国内网络直连超时，需海外网络或代理",
+    "feeds": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science"
+    ]
+  },
+  {
+    "name": "National Geographic",
+    "enabled": false,
+    "note": "国内网络直连超时，需海外网络或代理",
+    "feeds": [
+      "https://www.nationalgeographic.com/science/feed",
+      "https://www.nationalgeographic.com/environment/feed"
+    ]
+  },
+  {
+    "name": "VOA Learning English",
+    "enabled": false,
+    "note": "国内网络直连超时，需海外网络或代理",
+    "feeds": [
+      "https://learningenglish.voanews.com/api/zyvqemui"
+    ]
+  },
+  {
+    "name": "The Economist",
+    "enabled": false,
+    "note": "付费墙 + 国内网络直连超时，需海外网络或代理",
+    "feeds": [
+      "https://www.economist.com/sections/international/rss.xml"
+    ]
+  },
+  {
+    "name": "The New York Times",
+    "enabled": false,
+    "note": "付费墙 + 国内网络直连超时，需海外网络或代理",
+    "feeds": [
+      "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+    ]
+  },
+  {
+    "name": "TED",
+    "enabled": false,
+    "note": "国内网络直连超时，需海外网络或代理",
+    "feeds": [
+      "https://www.ted.com/feeds/talks.rss"
+    ]
+  }
+]

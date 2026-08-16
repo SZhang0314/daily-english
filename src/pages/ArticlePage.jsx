@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { analyzeArticle } from '../lib/article.js'
 import { hasKey } from '../lib/deepseek.js'
 import {
@@ -17,6 +17,33 @@ export default function ArticlePage() {
   const [result, setResult] = useState(null)
   const [activeWord, setActiveWord] = useState(null)
   const [showTranslation, setShowTranslation] = useState(true)
+  const [library, setLibrary] = useState(null)
+  const [libraryOpen, setLibraryOpen] = useState(false)
+  const [pickedId, setPickedId] = useState(null)
+
+  useEffect(() => {
+    fetch('data/articles.json')
+      .then((r) => r.ok ? r.json() : [])
+      .then((d) => setLibrary(Array.isArray(d) ? d : []))
+      .catch(() => setLibrary([]))
+  }, [])
+
+  const pickArticle = (a) => {
+    setTitle(a.title || '')
+    setContent(a.content || a.summary || '')
+    setSource(a.source || 'China Daily')
+    setPickedId(a.id)
+    setResult(null)
+    setError('')
+    window.scrollTo({ top: 0, behavior: 'smooth' })
+  }
+
+  const pickDaily = () => {
+    if (!library || library.length === 0) return
+    const day = Math.floor(Date.now() / 86400000)
+    const a = library[day % library.length]
+    pickArticle(a)
+  }
 
   const handleFile = async (e) => {
     const file = e.target.files?.[0]
@@ -57,6 +84,48 @@ export default function ArticlePage() {
         来源包括 China Daily、The Guardian、National Geographic、The New York Times、The Economist、Nature、Science 及其子刊；
         可人工粘贴或上传 .txt / .md / .html。翻译、重点词与长难句注释、雅思/托福词汇分级、文末词汇总结由 AI 生成。
       </p>
+
+      <div className="card">
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: 10 }}>
+          <div className="label zh" style={{ fontSize: 14, color: '#000', fontWeight: 700 }}>精选文章库（储备文章）</div>
+          <div style={{ display: 'flex', gap: 10 }}>
+            <button onClick={pickDaily} disabled={!library || library.length === 0}>每日一篇</button>
+            <button onClick={() => setLibraryOpen(!libraryOpen)}>
+              {libraryOpen ? '收起' : `展开（${library ? library.length : 0} 篇）`}
+            </button>
+          </div>
+        </div>
+        {library === null ? (
+          <div className="notice zh" style={{ marginTop: 10 }}>正在加载文章库…</div>
+        ) : library.length === 0 ? (
+          <div className="notice zh" style={{ marginTop: 10 }}>
+            暂无储备文章。可在项目根目录运行 <code>python tools/fetch_chinadaily.py</code> 抓取。
+          </div>
+        ) : (
+          <div className="notice zh" style={{ marginTop: 10 }}>
+            共 {library.length} 篇双语文章（China Daily 英语学习频道，其余外媒需海外网络抓取）。点击文章自动填入下方并可直接精读。
+          </div>
+        )}
+        {libraryOpen && library && library.length > 0 && (
+          <div className="subtitle-track" style={{ marginTop: 10, maxHeight: 360 }}>
+            {library.map((a) => (
+              <div key={a.id}
+                className="subtitle-line"
+                style={{ cursor: 'pointer', padding: '8px 0' }}
+                onClick={() => pickArticle(a)}
+                title={a.url}>
+                <span style={{ flex: 1 }}>
+                  <span className="tag">{a.source || 'China Daily'}</span>
+                  {a.published ? a.published.slice(0, 10) : ''}
+                  <span style={{ marginLeft: 8, fontWeight: pickedId === a.id ? 700 : 400 }}>
+                    {a.title}
+                  </span>
+                </span>
+              </div>
+            ))}
+          </div>
+        )}
+      </div>
 
       <div className="card">
         <div style={{ display: 'flex', gap: 16, flexWrap: 'wrap', marginBottom: 12 }}>
